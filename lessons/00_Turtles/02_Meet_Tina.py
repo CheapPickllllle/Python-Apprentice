@@ -1,4 +1,4 @@
-"""
+   """
 The is a simple Turtle program that draws a square and writes a message. The
 lines that start with a # are comments. They are not executed by Python. The
 lines inside the three quotes are also comments, but of a different sort (
